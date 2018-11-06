@@ -1,0 +1,7 @@
+D:\Проекты\Hello.World\Hello.World\bin\Debug\Hello.World.exe.config
+D:\Проекты\Hello.World\Hello.World\bin\Debug\Hello.World.exe
+D:\Проекты\Hello.World\Hello.World\bin\Debug\Hello.World.pdb
+D:\Проекты\Hello.World\Hello.World\obj\Debug\Hello.World.csprojAssemblyReference.cache
+D:\Проекты\Hello.World\Hello.World\obj\Debug\Hello.World.csproj.CoreCompileInputs.cache
+D:\Проекты\Hello.World\Hello.World\obj\Debug\Hello.World.exe
+D:\Проекты\Hello.World\Hello.World\obj\Debug\Hello.World.pdb
