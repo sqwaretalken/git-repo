@@ -10,24 +10,24 @@ namespace Hello.World
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Я хочу изучать язык C#!");
-            //Console.ReadLine();
-
-            String a = Console.ReadLine();
-            String b = Console.ReadLine();
-
-            int num1 = Int32.Parse( a );
-            int num2 = Int32.Parse(b);
-
-            int result = num1 + num2;
-            Console.WriteLine(result);
-            result = num1 * num2;
-            Console.WriteLine(result);
-
-            double average = (double) (num1 + num2) / 2;
-            Console.WriteLine( average );
-
+            Console.WriteLine("Я хочу изучать язык C#!");
             Console.ReadLine();
+
+            //string a = console.readline();
+            //string b = console.readline();
+
+            //int num1 = int32.parse( a );
+            //int num2 = int32.parse(b);
+
+            //int result = num1 + num2;
+            //console.writeline(result);
+            //result = num1 * num2;
+            //console.writeline(result);
+
+            //double average = (double) (num1 + num2) / 2;
+            //console.writeline( average );
+
+            //console.readline();
         }
     }
 }
